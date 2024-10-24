@@ -1,0 +1,61 @@
+{
+  "film": [
+    {
+      "id": "1",
+      "price": 16.9,
+      "name": "La fuga del cavallo morto",
+      "image": "../images/cavallo-morto.jpg",
+      "year": "1978",
+      "descAlt": "Un disperato thriller del regista franco-lappone Limor Takkituä. Un cavallo muore, all'improvviso e apparentemente senza un perché: chi è stato ad ucciderlo, e qual è il movente? Il cavallo non può fare altro che darsi alla fuga, mentre un solitario detective fa di tutto per salvarlo da vita certa."
+    },
+    {
+      "id": "2",
+      "price": 23.9,
+      "name": "La donna nuda con le mani in tasca",
+      "image": "../images/mani-in-tasca.jpg",
+      "year": "1999",
+      "descAlt": "Horror di genere per l'ardita e sperimentale regia della giovane regista cilena Amanda Mela Perpèk. Alla giovane giornalista Francine viene assegnato un reportage sulla storia dell'anno: un'antica famiglia montevideana, custode di antichi segreti e tormentata dalla maledizione di una donna le cui tasche sembrano non avere fondo, oltre che altre dimensioni. Francine dovrà confrontarsi con i fantasmi del proprio passato, presente e congiuntivo per sopravvivere."
+    },
+    {
+      "id": "3",
+      "price": 11.99,
+      "name": "L'amica imbecille",
+      "image": "../images/lamica-imbecille.webp",
+      "year": "2004",
+      "descAlt": "Dramma in tre parti sullo sfondo storico della Foggia degli anni '90. Maria e Incoronata sono due ragazze, legate da un'incredibile amicizia. Quando Maria si sposa, incoraggia Incoronata a proseguire gli studi nonostante le sue evidenti difficoltà a formare pensieri di senso anche lontanamente compiuto. Cameo di Pio & Amedeo nei panni dei professori che, finalmente, concederanno a Incoronata l'agognata laurea in Ingegneria Gestionale."
+    },
+    {
+      "id": "4",
+      "price": 50.45,
+      "name": "Ghiaccio bollente",
+      "image": "../images/ghiacciai-in-fiamme.jpg",
+      "year": "1999",
+      "descAlt": "Avventura a tema ambientalista scritta, diretta e interpretata dall'infaticabile karateka Stefano Segale. L'ex membro delle forze speciali Keith Russman viene assunto come guardia di sicurezza presso il laboratorio artico della sospetta compagnia WeDrill. Ma una serie di misteriosi sabotaggi turbano la quiete degli scienzati, e la misteriosa Titra Direaux minaccia di trascinare Russman in un vortice di passione. Non di solo fuoco brucerà il Polo Nord... "
+    },
+    {
+      "id": "5",
+      "price": 3.9,
+      "name": "Cemento Armato",
+      "image": "../images/cemento-armato.jpg",
+      "year": "1999",
+      "descAlt": "Standing ovation al festival di Canne (Frazione di Barletta). Nell'atmosfera noir tipica di Sondrio, l'ispettore Bloc viene ucciso a tradimento dai propri colleghi, collusi con la mafia meneghina. La colata di cemento doveva essere la sua tomba...ma la ritrovata quadrangolarità sarà il suo biglietto di sola andata verso la giustizia."
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "prezzo": 16.9,
+      "nome": "La fuga del cavallo morto"
+    },
+    {
+      "id": "2",
+      "prezzo": 23.9,
+      "nome": "La donna nuda con le mani in tasca"
+    },
+    {
+      "id": "4",
+      "prezzo": 50.45,
+      "nome": "Ghiaccio bollente"
+    }
+  ]
+}
